@@ -1,6 +1,6 @@
 # Video Player
 ## Video player with basic controls.
-![video-player](https://i.imgur.com/ed2Lz65.png)
+![video-player](https://i.imgur.com/PtBsusr.png)
 
 * Play & Pause
 * Calculate display time
